@@ -10,7 +10,7 @@
     <file path="/Dummy.txt" changelist="ea9b9c5b-7989-4332-814b-8541989b0722" time="1365826635689" ignored="false" />
     <file path="/primaryProducts.html" changelist="ea9b9c5b-7989-4332-814b-8541989b0722" time="1365827352564" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/misc.xml" changelist="ea9b9c5b-7989-4332-814b-8541989b0722" time="1365831818273" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="ea9b9c5b-7989-4332-814b-8541989b0722" time="1365831828962" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="ea9b9c5b-7989-4332-814b-8541989b0722" time="1365832207399" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,44 +69,7 @@
     <favorites_list name="OnlineShopping" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Mainframe.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Mainframe.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="21" selection-start="238" selection-end="238" vertical-scroll-proportion="-7.5588236">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="primaryProducts.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/primaryProducts.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="18" selection-start="1081" selection-end="1081" vertical-scroll-proportion="-27.941177">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Footer.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="28" selection-start="77" selection-end="77" vertical-scroll-proportion="0.12562814">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Header.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="6" selection-start="1404" selection-end="1404" vertical-scroll-proportion="-22.647058">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -125,11 +88,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/Iframe.html" />
-        <option value="$PROJECT_DIR$/src/Footer.html" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/primaryProducts.html" />
         <option value="$PROJECT_DIR$/src/Header.html" />
         <option value="$PROJECT_DIR$/src/Mainframe.html" />
+        <option value="$PROJECT_DIR$/src/Footer.html" />
       </list>
     </option>
   </component>
@@ -230,7 +193,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1186" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297769" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -244,7 +207,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24439701" sideWeight="0.67022306" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24439701" sideWeight="0.67022306" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -405,14 +368,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="6" selection-start="1404" selection-end="1404" vertical-scroll-proportion="-22.647058">
+        <state line="55" column="6" selection-start="1404" selection-end="1404" vertical-scroll-proportion="0.77386934">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="28" selection-start="77" selection-end="77" vertical-scroll-proportion="0.12562814">
+        <state line="8" column="63" selection-start="148" selection-end="148" vertical-scroll-proportion="0.20100503">
           <folding />
         </state>
       </provider>
