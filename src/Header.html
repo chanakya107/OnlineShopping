@@ -5,29 +5,54 @@
     <title>Header</title>
 
     <style type="text/css" media="screen">
-        body {
-            background: red
+        .menuBar {
+            margin-top: 30px;
+            margin-left: 300px;
+            font-size: 35px;
         }
 
-        h1 {
-            font-size: xx-large;
-            color: red;
-            font-style: italic;
+        .searchBar {
+            margin-top: 30px;
+            margin-left: 350px;
+            font-size: 35px;
         }
+
+        .logo {
+            font-size: 45px;
+            font-style: oblique;
+            font-variant: small-caps;
+            font-family: monospace;
+            font-stretch: ultra-expanded;
+            text-align: left;
+        }
+
+        .body {
+            background: rosybrown;
+        }
+
+
     </style>
 
 </head>
 
-<body>
+<body class="body">
 <menu type="toolbar" id="fileMenu" label="File">
-    <li>New</li>
-    <li>Open</li>
-    <li>Close</li>
-    <hr>
-    <li>Save</li>
-    <li>Save as...</li>
-    <hr>
-    <li>Exit</li>
+    <li>
+        <menu label="File" class="menuBar">
+            <a href="Header.html">New Deal</a>
+            <a href="Header.html">Great Offers</a>
+            <a href="Header.html">Today's Deal</a>
+            <a href="Header.html">Gift Cards</a>
+            <a href="Header.html">Discounts</a>
+            <a href="Header.html">Help</a>
+        </menu>
+    </li>
 </menu>
+<div class="logo">
+    Amazon logo
+</div>
+<div class="searchBar">
+    Search <input type="text" name="q" maxlength="4" size="140"/><input type="submit" value="GO" size="45">
+</div>
 </body>
 </html>
