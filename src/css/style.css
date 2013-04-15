@@ -22,7 +22,7 @@
 }
 
 .loginBar {
-    margin-right: 60px;
+    margin-right: 20px;
     font-size: 15px;
 }
 
@@ -49,5 +49,6 @@
 }
 
 .header {
-    box-shadow: 10px 10px 5px #888888;
+    box-shadow: 5px 5px 5px #888888;
 }
+
