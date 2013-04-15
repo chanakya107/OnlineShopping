@@ -1,3 +1,52 @@
+.primaryProducts {
+    padding: 10px;
+}
+
+#menu {
+    margin-left: 100px;
+}
+
+.productlist {
+    padding-top: 90px;
+    padding-left: 200px;
+}
+
+.primaryImage {
+    padding-top: 100px;
+}
+
+.collectionCategory {
+    padding: 20px;
+}
+
+.heading {
+    color: darkorange;
+    font-size: 13pt;
+    font-weight: bold;
+}
+
+a:link {
+    text-decoration: none;
+    color: #007791;
+
+}
+a:visited{
+    text-decoration: none;
+    color: #007791;
+}
+a:hover{
+    text-decoration: underline;
+    color: darkorange;
+}
+a:active{
+    text-decoration: underline;
+    color: darkorange;
+}
+
+.div_inline{
+     display: inline-block;
+}
+
 .menuBar {
     margin-top: 10px;
     font-size: 12px;
