@@ -1,21 +1,53 @@
-.primaryProducts
-{
-    padding:10px;
+.menuBar {
+    margin-top: 10px;
+    font-size: 12px;
+    padding-bottom: 20px;
+
 }
-#menu
-{
-    margin-left:100px;
+
+.searchBar {
+    color: #000000;
+    margin-left: 130px;
+    font-size: 15px;
+
 }
-.productlist
-{
-    padding-top: 90px;
-    padding-left: 200px;
+
+.logo {
+    font-size: 45px;
+    font-style: oblique;
+    font-variant: small-caps;
+    font-family: monospace;
+    font-stretch: ultra-expanded;
+    text-align: left;
 }
-.primaryImage
-{
-    padding-top:100px;
+
+.loginBar {
+    margin-right: 60px;
+    font-size: 15px;
 }
-.collectionCategory 
-{
-    padding: 20px; 
+
+.button {
+    color: #000;
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+.text {
+    border: 2px;
+    border-radius: 10px;
+    font-size: 19px;
+    width: 950px;
+    background-color: wheat;
+    border-bottom-color: #000000;
+
+}
+
+.hyperlink {
+    text-decoration: none;
+    color: black;
+    padding: -10px;
+}
+
+.header {
+    box-shadow: 10px 10px 5px #888888;
 }
