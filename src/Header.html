@@ -1,32 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-
     <title>Header</title>
-
-    <style type="text/css" media="screen">
-        .menuBar {
-            margin-top: 30px;
-            margin-left: 300px;
-            font-size: 35px;
-        }
-
-        .searchBar {
-            margin-top: 30px;
-            margin-left: 350px;
-            font-size: 35px;
-        }
-
-        .logo {
-            font-size: 45px;
-            font-style: oblique;
-            font-variant: small-caps;
-            font-family: monospace;
-            font-stretch: ultra-expanded;
-            text-align: left;
-        }
-    </style>
-
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
 </head>
 
 <body class="body">
@@ -35,7 +11,7 @@
     <img src="../img/header.jpg" alt="Amazon Logo" width="300" height="200">
 </div>
 
-<div style="position: relative; top:-150px">
+<div class="headerAlign">
     <menu type="toolbar" id="fileMenu" label="File">
         <li>
             <menu label="File" class="menuBar">
@@ -53,6 +29,7 @@
     <div class="searchBar">
         Search <input type="text" name="q" maxlength="4" size="140"/><input type="submit" value="GO" size="45">
     </div>
+
 </div>
 </body>
 </html>

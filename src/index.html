@@ -3,21 +3,69 @@
 <html>
 
 <head>
-    <title>MainFrame</title>
+    <link rel="Stylesheet" href="../css/bootstrap.css"/>
+    <link rel="Stylesheet" href="../css/bootstrap.min.css"/>
+    <link rel="Stylesheet" href="../css/bootstrap-responsive.css"/>
+    <link rel="Stylesheet" href="../css/bootstrap-responsive.min.css"/>
+    <link rel="Stylesheet" href="../css/style.css"/>
+    <title>HomePage</title>
 </head>
 
 <body>
 <form>
+
     <div>
+        <!-- Header Starts -->
+        <div class="row-fluid header">
+            <div class="span1">
+                <img src="images/logo.png" alt="Amazon Logo" width="125" height="70">
+            </div>
+            <div class="span4" style="margin-top: 45px;">
+                <a href="" class="menuBar">New Deal</a>
+                <a href="" class="menuBar">Great Offers</a>
+                <a href="" class="menuBar">Today's Deal</a>
+                <a href="" class="menuBar">Gift Cards</a>
+                <a href="" class="menuBar">Discounts</a>
+                <a href="" class="menuBar">Help</a>
+            </div>
 
-        <iframe name="Header" frameborder=0 HEIGHT="250" WIDTH="1865" src="Header.html" srcdoc="Header.html" scrolling="no">
-            Header
-        </iframe>
+            <span class="searchBar input-prepend input-append">
+                <span class="add-on">Search </span>
+                <input type="text" class="text" id="appendedPrependedInput"/>
+                <span><input type="submit" value="GO" style="height: 30px;width: 60px"></span>
+            </span>
+
+            <div class="pull-right loginBar">
+                <a href="" class="icon-envelope">SignIn </a>
+                <a href="">Join</a>
+                <a href="">Cart</a>
+                <a href="">WishList</a>
+            </div>
+
+        </div>
+        <!-- Header Ends -->
+        <hr/>
+        <div id="body">
+            <span>
+                <div class="collectionCategory"><a href="" class="hyperlink">Instant Video</a></div>
+                <div class="collectionCategory"><a href="" class="hyperlink">Mp3 store</a></div>
+                <div class="collectionCategory"><a href="" class="hyperlink">Cloud Player</a></div>
+                <div class="collectionCategory"><a href="" class="hyperlink">Kindle</a></div>
+                <div class="collectionCategory"><a href="" class="hyperlink">Cloud Drive</a></div>
+                <div class="collectionCategory"><a href="" class="hyperlink">App store</a></div>
+                <div class="collectionCategory"><a href="" class="hyperlink">Digital Game</a></div>
+                <div class="collectionCategory"><a href="" class="hyperlink">Audiable Audio Books</a></div>
+            </span>
+            <span class="menuBar">
+                <span class="primaryProducts"><a href="" class="hyperlink">New Deal</a></span>
+                <span class="primaryProducts"><a href="" class="hyperlink">Great Offers</a></span>
+                <span class="primaryProducts"><a href="" class="hyperlink">Today's Deal</a></span>
+                <span class="primaryProducts"><a href="" class="hyperlink">Gift Cards</a></span>
+                <span class="primaryProducts"><a href="" class="hyperlink">Discounts</a></span>
+                <span class="primaryProducts"><a href="" class="hyperlink">Help</a></span>
+            </span>
+        </div>
     </div>
-
-    <iframe frameborder=0 name="Collection of Category" HEIGHT="900" WIDTH="300" src="collectionCategory.html">
-        Collection of Category
-    </iframe>
 
     <iframe frameborder=0 name="Primary Products" HEIGHT="900" WIDTH="1100" src="primaryProducts.html">
         Primary

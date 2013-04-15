@@ -46,3 +46,57 @@ a:active{
 .div_inline{
      display: inline-block;
 }
+
+.menuBar {
+    margin-top: 10px;
+    font-size: 12px;
+    padding-bottom: 20px;
+
+}
+
+.searchBar {
+    color: #000000;
+    margin-left: 130px;
+    font-size: 15px;
+
+}
+
+.logo {
+    font-size: 45px;
+    font-style: oblique;
+    font-variant: small-caps;
+    font-family: monospace;
+    font-stretch: ultra-expanded;
+    text-align: left;
+}
+
+.loginBar {
+    margin-right: 60px;
+    font-size: 15px;
+}
+
+.button {
+    color: #000;
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+.text {
+    border: 2px;
+    border-radius: 10px;
+    font-size: 19px;
+    width: 950px;
+    background-color: wheat;
+    border-bottom-color: #000000;
+
+}
+
+.hyperlink {
+    text-decoration: none;
+    color: black;
+    padding: -10px;
+}
+
+.header {
+    box-shadow: 10px 10px 5px #888888;
+}
